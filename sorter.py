@@ -55,5 +55,3 @@ but2.pack()
 lbl = Label(window, text="", font=("Arial Bold", 20), background='blue', borderwidth=0)
 lbl.pack()
 window.mainloop()
-
-exit()
