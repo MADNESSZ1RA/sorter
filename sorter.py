@@ -1,7 +1,6 @@
 import os
 import tkinter
 import tkinter.filedialog as fd
-from requests import get
 from tkinter import *
 
 window = Tk()
